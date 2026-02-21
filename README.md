@@ -1,4 +1,7 @@
-# Class-SNA
+# Class-SNA 2.0
+
+## Demo
+https://class-sna-2.vercel.app/
 
 학급 설문 CSV를 업로드하면 학생 간 관계를 정규화하고, 중심성 지표와 2D/3D 네트워크 그래프로 분석하는 웹 애플리케이션입니다.
 
